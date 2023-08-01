@@ -1,0 +1,25 @@
+img {
+    width: 500px;
+}
+
+body{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+div{
+    max-width: 50vw;
+}
+
+.recipe-image {
+    position: sticky;
+    top: 0;
+    max-height: 99vh;
+    margin: -20px 5vw 0;
+}
+
+.molasses-body {
+    background-color: rgb(109, 105, 132);
+    color: lightgoldenrodyellow;
+}
